@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f6db24357284c445abe16bbe62e1d09a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cardboard box_001
+    100004: cardboard box_002
+    100006: cardboard box_003
+    100008: cardboard box_004
+    100010: cardboard box_005
+    100012: cardboard box_006
+    100014: cardboard box_007
+    100016: cardboard box_008
+    100018: cardboard box_009
+    100020: cardboard box_010
+    100022: cardboard box_011
+    100024: cardboard box_012
+    100026: cardboard box_013
+    100028: cardboard box_014
+    100030: cardboard box_015
+    100032: cardboard box_016
+    100034: cardboard box_017
+    100036: cardboard box_018
+    100038: Crate_001
+    100040: Group_001
+    100042: Group_002
+    100044: Group_003
+    100046: Group_004
+    100048: Group_005
+    100050: Group_006
+    100052: Group_007
+    100054: Group_008
+    100056: Group_009
+    100058: Group_010
+    100060: Group_011
+    100062: Group_012
+    100064: Group_013
+    100066: Group_014
+    100068: Group_015
+    100070: Group_016
+    100072: Group_017
+    100074: Group_018
+    100076: Group_019
+    100078: Group_020
+    100080: Group_021
+    100082: Group_022
+    100084: Group_023
+    100086: Group_024
+    100088: Group_025
+    100090: Group_026
+    100092: Group_027
+    100094: Group_028
+    100096: Group_029
+    100098: Group_030
+    100100: Group_031
+    100102: Group_032
+    100104: Group_033
+    100106: Group_034
+    100108: Group_035
+    100110: Group_036
+    100112: Group_037
+    100114: Group_038
+    100116: Group_039
+    100118: Group_040
+    100120: Group_041
+    100122: Group_042
+    100124: Group_043
+    100126: Group_044
+    100128: Group_045
+    100130: Group_046
+    100132: Group_047
+    100134: Group_048
+    100136: Group_049
+    100138: Group_050
+    100140: Group_051
+    100142: Group_052
+    100144: Group_053
+    100146: Group_054
+    100148: Group_055
+    100150: Group_056
+    100152: Group_057
+    100154: Group_058
+    100156: Group_059
+    100158: Group_060
+    100160: Group_061
+    100162: Group_062
+    100164: Group_063
+    100166: Group_064
+    100168: Group_065
+    100170: Group_066
+    100172: Group_067
+    100174: Group_068
+    100176: Group_069
+    100178: Group_070
+    100180: Group_071
+    100182: Group_072
+    100184: Group_073
+    100186: Group_074
+    100188: Group_075
+    100190: Group_076
+    100192: Group_077
+    100194: Group_078
+    100196: Group_079
+    100198: Group_080
+    100200: Group_081
+    100202: Group_082
+    100204: Group_083
+    100206: Group_084
+    100208: Group_085
+    100210: Group_086
+    100212: Group_087
+    100214: Group_088
+    100216: Group_089
+    100218: Group_090
+    400000: //RootNode
+    400002: cardboard box_001
+    400004: cardboard box_002
+    400006: cardboard box_003
+    400008: cardboard box_004
+    400010: cardboard box_005
+    400012: cardboard box_006
+    400014: cardboard box_007
+    400016: cardboard box_008
+    400018: cardboard box_009
+    400020: cardboard box_010
+    400022: cardboard box_011
+    400024: cardboard box_012
+    400026: cardboard box_013
+    400028: cardboard box_014
+    400030: cardboard box_015
+    400032: cardboard box_016
+    400034: cardboard box_017
+    400036: cardboard box_018
+    400038: Crate_001
+    400040: Group_001
+    400042: Group_002
+    400044: Group_003
+    400046: Group_004
+    400048: Group_005
+    400050: Group_006
+    400052: Group_007
+    400054: Group_008
+    400056: Group_009
+    400058: Group_010
+    400060: Group_011
+    400062: Group_012
+    400064: Group_013
+    400066: Group_014
+    400068: Group_015
+    400070: Group_016
+    400072: Group_017
+    400074: Group_018
+    400076: Group_019
+    400078: Group_020
+    400080: Group_021
+    400082: Group_022
+    400084: Group_023
+    400086: Group_024
+    400088: Group_025
+    400090: Group_026
+    400092: Group_027
+    400094: Group_028
+    400096: Group_029
+    400098: Group_030
+    400100: Group_031
+    400102: Group_032
+    400104: Group_033
+    400106: Group_034
+    400108: Group_035
+    400110: Group_036
+    400112: Group_037
+    400114: Group_038
+    400116: Group_039
+    400118: Group_040
+    400120: Group_041
+    400122: Group_042
+    400124: Group_043
+    400126: Group_044
+    400128: Group_045
+    400130: Group_046
+    400132: Group_047
+    400134: Group_048
+    400136: Group_049
+    400138: Group_050
+    400140: Group_051
+    400142: Group_052
+    400144: Group_053
+    400146: Group_054
+    400148: Group_055
+    400150: Group_056
+    400152: Group_057
+    400154: Group_058
+    400156: Group_059
+    400158: Group_060
+    400160: Group_061
+    400162: Group_062
+    400164: Group_063
+    400166: Group_064
+    400168: Group_065
+    400170: Group_066
+    400172: Group_067
+    400174: Group_068
+    400176: Group_069
+    400178: Group_070
+    400180: Group_071
+    400182: Group_072
+    400184: Group_073
+    400186: Group_074
+    400188: Group_075
+    400190: Group_076
+    400192: Group_077
+    400194: Group_078
+    400196: Group_079
+    400198: Group_080
+    400200: Group_081
+    400202: Group_082
+    400204: Group_083
+    400206: Group_084
+    400208: Group_085
+    400210: Group_086
+    400212: Group_087
+    400214: Group_088
+    400216: Group_089
+    400218: Group_090
+    2100000: '[Wood_Plywood_Knots]1'
+    2100002: _Beige_3
+    2300000: cardboard box_001
+    2300002: cardboard box_002
+    2300004: cardboard box_003
+    2300006: cardboard box_004
+    2300008: cardboard box_005
+    2300010: cardboard box_006
+    2300012: cardboard box_007
+    2300014: cardboard box_008
+    2300016: cardboard box_009
+    2300018: cardboard box_010
+    2300020: cardboard box_011
+    2300022: cardboard box_012
+    2300024: cardboard box_013
+    2300026: cardboard box_014
+    2300028: cardboard box_015
+    2300030: cardboard box_016
+    2300032: cardboard box_017
+    2300034: cardboard box_018
+    2300036: Crate_001
+    2300038: Group_001
+    2300040: Group_002
+    2300042: Group_003
+    2300044: Group_004
+    2300046: Group_005
+    2300048: Group_006
+    2300050: Group_007
+    2300052: Group_008
+    2300054: Group_009
+    2300056: Group_010
+    2300058: Group_011
+    2300060: Group_012
+    2300062: Group_013
+    2300064: Group_014
+    2300066: Group_015
+    2300068: Group_016
+    2300070: Group_017
+    2300072: Group_018
+    2300074: Group_019
+    2300076: Group_020
+    2300078: Group_021
+    2300080: Group_022
+    2300082: Group_023
+    2300084: Group_024
+    2300086: Group_025
+    2300088: Group_026
+    2300090: Group_027
+    2300092: Group_028
+    2300094: Group_029
+    2300096: Group_030
+    2300098: Group_031
+    2300100: Group_032
+    2300102: Group_033
+    2300104: Group_034
+    2300106: Group_035
+    2300108: Group_036
+    2300110: Group_037
+    2300112: Group_038
+    2300114: Group_039
+    2300116: Group_040
+    2300118: Group_041
+    2300120: Group_042
+    2300122: Group_043
+    2300124: Group_044
+    2300126: Group_045
+    2300128: Group_046
+    2300130: Group_047
+    2300132: Group_048
+    2300134: Group_049
+    2300136: Group_050
+    2300138: Group_051
+    2300140: Group_052
+    2300142: Group_053
+    2300144: Group_054
+    2300146: Group_055
+    2300148: Group_056
+    2300150: Group_057
+    2300152: Group_058
+    2300154: Group_059
+    2300156: Group_060
+    2300158: Group_061
+    2300160: Group_062
+    2300162: Group_063
+    2300164: Group_064
+    2300166: Group_065
+    2300168: Group_066
+    2300170: Group_067
+    2300172: Group_068
+    2300174: Group_069
+    2300176: Group_070
+    2300178: Group_071
+    2300180: Group_072
+    2300182: Group_073
+    2300184: Group_074
+    2300186: Group_075
+    2300188: Group_076
+    2300190: Group_077
+    2300192: Group_078
+    2300194: Group_079
+    2300196: Group_080
+    2300198: Group_081
+    2300200: Group_082
+    2300202: Group_083
+    2300204: Group_084
+    2300206: Group_085
+    2300208: Group_086
+    2300210: Group_087
+    2300212: Group_088
+    2300214: Group_089
+    2300216: Group_090
+    3300000: cardboard box_001
+    3300002: cardboard box_002
+    3300004: cardboard box_003
+    3300006: cardboard box_004
+    3300008: cardboard box_005
+    3300010: cardboard box_006
+    3300012: cardboard box_007
+    3300014: cardboard box_008
+    3300016: cardboard box_009
+    3300018: cardboard box_010
+    3300020: cardboard box_011
+    3300022: cardboard box_012
+    3300024: cardboard box_013
+    3300026: cardboard box_014
+    3300028: cardboard box_015
+    3300030: cardboard box_016
+    3300032: cardboard box_017
+    3300034: cardboard box_018
+    3300036: Crate_001
+    3300038: Group_001
+    3300040: Group_002
+    3300042: Group_003
+    3300044: Group_004
+    3300046: Group_005
+    3300048: Group_006
+    3300050: Group_007
+    3300052: Group_008
+    3300054: Group_009
+    3300056: Group_010
+    3300058: Group_011
+    3300060: Group_012
+    3300062: Group_013
+    3300064: Group_014
+    3300066: Group_015
+    3300068: Group_016
+    3300070: Group_017
+    3300072: Group_018
+    3300074: Group_019
+    3300076: Group_020
+    3300078: Group_021
+    3300080: Group_022
+    3300082: Group_023
+    3300084: Group_024
+    3300086: Group_025
+    3300088: Group_026
+    3300090: Group_027
+    3300092: Group_028
+    3300094: Group_029
+    3300096: Group_030
+    3300098: Group_031
+    3300100: Group_032
+    3300102: Group_033
+    3300104: Group_034
+    3300106: Group_035
+    3300108: Group_036
+    3300110: Group_037
+    3300112: Group_038
+    3300114: Group_039
+    3300116: Group_040
+    3300118: Group_041
+    3300120: Group_042
+    3300122: Group_043
+    3300124: Group_044
+    3300126: Group_045
+    3300128: Group_046
+    3300130: Group_047
+    3300132: Group_048
+    3300134: Group_049
+    3300136: Group_050
+    3300138: Group_051
+    3300140: Group_052
+    3300142: Group_053
+    3300144: Group_054
+    3300146: Group_055
+    3300148: Group_056
+    3300150: Group_057
+    3300152: Group_058
+    3300154: Group_059
+    3300156: Group_060
+    3300158: Group_061
+    3300160: Group_062
+    3300162: Group_063
+    3300164: Group_064
+    3300166: Group_065
+    3300168: Group_066
+    3300170: Group_067
+    3300172: Group_068
+    3300174: Group_069
+    3300176: Group_070
+    3300178: Group_071
+    3300180: Group_072
+    3300182: Group_073
+    3300184: Group_074
+    3300186: Group_075
+    3300188: Group_076
+    3300190: Group_077
+    3300192: Group_078
+    3300194: Group_079
+    3300196: Group_080
+    3300198: Group_081
+    3300200: Group_082
+    3300202: Group_083
+    3300204: Group_084
+    3300206: Group_085
+    3300208: Group_086
+    3300210: Group_087
+    3300212: Group_088
+    3300214: Group_089
+    3300216: Group_090
+    4300000: Crate_001
+    4300002: Group_090
+    4300004: Group_089
+    4300006: Group_088
+    4300008: Group_087
+    4300010: Group_086
+    4300012: cardboard box_018
+    4300014: Group_085
+    4300016: Group_084
+    4300018: Group_083
+    4300020: Group_082
+    4300022: Group_081
+    4300024: cardboard box_017
+    4300026: Group_080
+    4300028: Group_079
+    4300030: Group_078
+    4300032: Group_077
+    4300034: Group_076
+    4300036: cardboard box_016
+    4300038: Group_075
+    4300040: Group_074
+    4300042: Group_073
+    4300044: Group_072
+    4300046: Group_071
+    4300048: cardboard box_015
+    4300050: Group_070
+    4300052: Group_069
+    4300054: Group_068
+    4300056: Group_067
+    4300058: Group_066
+    4300060: cardboard box_014
+    4300062: Group_065
+    4300064: Group_064
+    4300066: Group_063
+    4300068: Group_062
+    4300070: Group_061
+    4300072: cardboard box_013
+    4300074: Group_060
+    4300076: Group_059
+    4300078: Group_058
+    4300080: Group_057
+    4300082: Group_056
+    4300084: cardboard box_012
+    4300086: Group_055
+    4300088: Group_054
+    4300090: Group_053
+    4300092: Group_052
+    4300094: Group_051
+    4300096: cardboard box_011
+    4300098: Group_050
+    4300100: Group_049
+    4300102: Group_048
+    4300104: Group_047
+    4300106: Group_046
+    4300108: cardboard box_010
+    4300110: Group_045
+    4300112: Group_044
+    4300114: Group_043
+    4300116: Group_042
+    4300118: Group_041
+    4300120: cardboard box_009
+    4300122: Group_040
+    4300124: Group_039
+    4300126: Group_038
+    4300128: Group_037
+    4300130: Group_036
+    4300132: cardboard box_008
+    4300134: Group_035
+    4300136: Group_034
+    4300138: Group_033
+    4300140: Group_032
+    4300142: Group_031
+    4300144: cardboard box_007
+    4300146: Group_030
+    4300148: Group_029
+    4300150: Group_028
+    4300152: Group_027
+    4300154: Group_026
+    4300156: cardboard box_006
+    4300158: Group_025
+    4300160: Group_024
+    4300162: Group_023
+    4300164: Group_022
+    4300166: Group_021
+    4300168: cardboard box_005
+    4300170: Group_020
+    4300172: Group_019
+    4300174: Group_018
+    4300176: Group_017
+    4300178: Group_016
+    4300180: cardboard box_004
+    4300182: Group_015
+    4300184: Group_014
+    4300186: Group_013
+    4300188: Group_012
+    4300190: Group_011
+    4300192: cardboard box_003
+    4300194: Group_010
+    4300196: Group_009
+    4300198: Group_008
+    4300200: Group_007
+    4300202: Group_006
+    4300204: cardboard box_002
+    4300206: Group_005
+    4300208: Group_004
+    4300210: Group_003
+    4300212: Group_002
+    4300214: Group_001
+    4300216: cardboard box_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood_Plywood_Knots]1'
+    second: {fileID: 2100000, guid: 6e219c5ff336949179da2590886e94eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Beige_3
+    second: {fileID: 2100000, guid: 413befd66bdd84d569871d0524b4685a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
